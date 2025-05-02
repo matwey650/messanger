@@ -5,6 +5,7 @@ from PIL import Image
 import base64
 import io
 
+# класдля головного викна
 class MainWindow(CTk):
     def __init__ (self):
         super().__init__()
